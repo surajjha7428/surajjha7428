@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vinay-kumar-820301288/">
+  <a href="https://www.linkedin.com/in/suraj-jha-%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-627a04280/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="#">
@@ -17,7 +17,7 @@
 <h1 align="center">
   Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Vinay Kumar                                                                                  
+  I'm Suraj Jha                                                                                  
 </h1><h2 align="center">Full stack web developer
 
 </h2>                                                                                 
@@ -25,7 +25,7 @@
 ### :woman_technologist: About Me :
 
 ### Hi there 👋
-* 👂 My name is *Vinay Kumar*,
+* 👂 My name is *Suraj Jha*,
 * 🌱 I’m currently learning Full Stack web Development from Masai School,
 * 🤝 Collaborating on projects with other developers,
 * 💬 Ask me about web development,
@@ -77,14 +77,14 @@ Tools:
 <hr />
 
 ### :fire: My Stats : 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VinayKumar2203&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=surajjha7428&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
                                                                                                                    <br />
-<img src="https://github-readme-stats.vercel.app/api?username=VinayKumar2203&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=surajjha7428&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayKumar2203&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VinayKumar2203" alt="VinayKumar2203" /></a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajjha7428&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajjha7428" alt="surajjha7428" /></a> </p>
 <hr />
 
 ### :fire: Checkout Some of My Good Projects : 
